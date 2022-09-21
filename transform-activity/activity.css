@@ -1,4 +1,4 @@
 main {
-    transform: skewX(-10deg), (-10deg);
+    transform: skewX(-10deg) rotate(-10deg);
 
 }
